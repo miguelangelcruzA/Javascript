@@ -6,3 +6,4 @@
     console.log(test)
 }
 
+test();
